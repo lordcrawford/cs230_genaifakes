@@ -1,3 +1,5 @@
-# CS 230 Gen AI Attribution Model
+# CS 230 Making Synthetic Image Attribution Models Performant and Less Susceptible to Image Alterations
 
-Final Project for CS 230 Deep Learning (Braden Becker &amp; Lord Crawford) - Attributing Image Generation Models to Gen AI Images
+Final Project for CS 230 Deep Learning (Braden Becker &amp; Lord Crawford)
+
+
